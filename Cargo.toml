@@ -1,0 +1,19 @@
+[package]
+name = "rusty-invaders"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[dependencies]
+piston = "0.54.0"
+piston_window = "0.130.0"
+piston2d-graphics = "0.44.0"
+pistoncore-glutin_window = "0.72.0"
+piston2d-opengl_graphics = "0.83.0"
+cgmath = "0.18"
+clearscreen = "2.0.1"
+rand = "0.8.5"
+kira = "0.8.5"
+fps_counter = "2.0.0"
